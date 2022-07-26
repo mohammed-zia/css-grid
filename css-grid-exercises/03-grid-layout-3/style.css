@@ -45,6 +45,7 @@ html, body{
   grid-template-columns: repeat(4, 1fr);
   grid-auto-flow: row;
   justify-items: right;
+  list-style: none;
 }
 
 .menu ul,
@@ -92,6 +93,7 @@ html, body{
   grid-template-columns: repeat(3, 1fr);
   grid-auto-flow: row;
   justify-items: center;
+  list-style: none;
 }
 
 .nav ul li {
